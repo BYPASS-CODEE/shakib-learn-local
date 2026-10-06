@@ -1,0 +1,12 @@
+{
+  "name": "آموزش تخصصی داروسازی و فرمولاسیون | شکیب لرن",
+  "short_name": "شکیب لرن",
+  "lang": "fa-IR",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f5f3ec",
+  "theme_color": "#17332f",
+  "icons": [{ "src": "/shakiblearn-logo.png", "sizes": "any", "type": "image/png", "purpose": "any maskable" }]
+}

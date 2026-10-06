@@ -1,0 +1,15 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /account
+Disallow: /dashboard
+Disallow: /profile
+Disallow: /orders
+Disallow: /applications
+Disallow: /certificates
+Disallow: /points
+Disallow: /notifications
+Disallow: /settings
+Disallow: /cart
+Disallow: /checkout
+Sitemap: https://vetbook.ir/sitemap.xml

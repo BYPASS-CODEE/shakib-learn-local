@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://vetbook.ir/</loc><priority>1.0</priority></url>
+  <url><loc>https://vetbook.ir/drugs</loc><priority>0.9</priority></url>
+  <url><loc>https://vetbook.ir/shortages</loc><priority>0.7</priority></url>
+  <url><loc>https://vetbook.ir/compounding</loc><priority>0.9</priority></url>
+  <url><loc>https://vetbook.ir/market</loc><priority>0.9</priority></url>
+  <url><loc>https://vetbook.ir/learn</loc><priority>0.9</priority></url>
+  <url><loc>https://vetbook.ir/exam</loc><priority>0.7</priority></url>
+  <url><loc>https://vetbook.ir/events</loc><priority>0.8</priority></url>
+  <url><loc>https://vetbook.ir/library</loc><priority>0.8</priority></url>
+  <url><loc>https://vetbook.ir/books</loc><priority>0.7</priority></url>
+  <url><loc>https://vetbook.ir/articles</loc><priority>0.7</priority></url>
+  <url><loc>https://vetbook.ir/videos</loc><priority>0.7</priority></url>
+  <url><loc>https://vetbook.ir/careers</loc><priority>0.8</priority></url>
+  <url><loc>https://vetbook.ir/shifts</loc><priority>0.7</priority></url>
+  <url><loc>https://vetbook.ir/community</loc><priority>0.7</priority></url>
+  <url><loc>https://vetbook.ir/universities</loc><priority>0.7</priority></url>
+  <url><loc>https://vetbook.ir/download</loc><priority>0.6</priority></url>
+  <url><loc>https://vetbook.ir/about</loc><priority>0.4</priority></url>
+  <url><loc>https://vetbook.ir/contact</loc><priority>0.4</priority></url>
+  <url><loc>https://vetbook.ir/privacy</loc><priority>0.2</priority></url>
+  <url><loc>https://vetbook.ir/terms</loc><priority>0.2</priority></url>
+</urlset>
